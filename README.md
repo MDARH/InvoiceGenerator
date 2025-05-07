@@ -1,7 +1,8 @@
 # Freelancer Invoice Generator
 
 A simple and professional invoice generator built with Vue 3 + TypeScript + Vite, designed specifically for freelancers who work with hourly rates.
-https://raw.githubusercontent.com/mdarh/InvoiceGenerator/screenshot.png
+![Invoice Generator Screenshot](./screenshot.png)
+
 ## Features
 
 - 📊 Clean and professional invoice layout
